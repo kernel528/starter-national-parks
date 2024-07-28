@@ -58,4 +58,5 @@ const parks = [
     area: "218,200 acres (883 km2)",
     rating: 4.9,
   },
+
 ];
